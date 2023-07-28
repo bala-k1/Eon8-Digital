@@ -1,0 +1,584 @@
+body{
+background-color: black;
+}
+.first{
+
+text-align: justify;
+margin: 150px 0 0 250px ;
+font-size: 25px;
+}
+.Layer1{
+    /* position: absolute; */
+   margin: -300px 0 0 700px;
+}
+.Ellipse10{
+    position: absolute;
+    margin: -350px 0 0 -260px; 
+}
+.first h1 {
+    font-size: 60px;
+    background-image: linear-gradient(to right,#00FF80, #281AF7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold; 
+    margin: 0 0 0 -140px;
+ }
+ .first p{
+   color: white;
+   margin: -10px 0 0 -140px;
+ }
+ .first img{
+    margin: 0 0 0 -120px;
+ }
+ .Ellipse2{
+    position: absolute;
+    margin: -750px 0 0 0 ;
+ }
+ .Ellipse2 h1{
+   font-size: 50px;
+   background-image: linear-gradient(to right,#00FF80, #281AF7);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   margin:  -1000px 0 0 110px;
+}
+.Ellipse2 p{
+   color: white;
+   margin:  10px 0 0 110px;
+   font-size: 20px;
+}
+.moon img{
+   margin:  90px 0 0 220px;
+}
+ .moon p{
+   font-family: Prodigy Sans;
+   margin: -70px 0 0 0;
+font-size: 75px;
+font-weight: 700;
+line-height: 132px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+
+ }
+ .Group34{
+   position: absolute;
+   width: 1330px;
+   height: 910.9337158203125px;
+ }
+ .star2{
+   position: absolute;
+   margin: 100px 0 0 1000px;
+ }
+ .we-offer{
+   background-image: linear-gradient(to right,#00FF80, #281AF7);
+   border-radius: 40px;
+   padding: auto;
+   margin: 1000px 0 0 360px;
+   font-size: 50px;
+   padding: 10px;
+   color: white;  
+ }
+ .titles1{
+   margin-top: -60px 0 0 0;
+ }
+ .p0{
+   font-size: 30px;
+   background-image: linear-gradient(to right,#00FF80, #281AF7);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+ }
+ .p1-1 {
+    color: white;
+    display: flex;
+    font-size: 20px;
+ }
+ .p1-1 p{
+     margin-left: 150px;
+ }
+ .p1-1 span{
+   margin: 17px 20px 0 200px;
+}
+.p1-2 {
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p1-2 p{
+    margin-left: 150px;
+}
+.p1-2 span{
+  margin: 17px 20px 0 270px;
+}
+.p1-3 {
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p1-3 p{
+    margin-left: 150px;
+}
+.p1-3 span{
+  margin: 17px 20px 0 245px;
+}
+.p1-4 {
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p1-4 p{
+    margin-left: 150px;
+}
+.p1-4 span{
+  margin: 17px 20px 0 100px;
+}
+.p2-1{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p2-1 p{
+   margin-left: 150px;
+}
+.p2-1 span{
+   margin: 17px 20px 0 270px ;
+}
+.p2-2{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p2-2 p{
+   margin-left: 150px;
+}
+.p2-2 span{
+   margin: 17px 20px 0 110px ;
+}
+.p2-3{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p2-3 p{
+   margin-left: 150px;
+}
+.p2-3 span{
+   margin: 17px 20px 0 85px ;
+}
+.p2-4{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p2-4 p{
+   margin-left: 150px;
+}
+.p2-4 span{
+   margin: 17px 20px 0 355px ;
+}
+.p3-1{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p3-1 p{
+   margin-left: 150px;
+}
+.p3-1 span{
+   margin: 17px 20px 0 290px ;
+}
+.p3-2{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p3-2 p{
+   margin-left: 150px;
+}
+.p3-2 span{
+   margin: 17px 20px 0 115px ;
+}
+.p3-3{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p3-3 p{
+   margin-left: 150px;
+}
+.p3-3 span{
+   margin: 17px 20px 0 235px ;
+}
+.p4-1{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p4-1 p{
+   margin-left: 150px;
+}
+.p4-1 span{
+   margin: 17px 30px 0 315px ;
+}
+.p4-2{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p4-2 p{
+   margin-left: 150px;
+}
+.p4-2 span{
+   margin: 17px 30px 0 315px ;
+}
+.p4-3{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p4-3 p{
+   margin-left: 150px;
+}
+.p4-3 span{
+   margin: 17px 30px 0 130px ;
+}
+.p4-4{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p4-4 p{
+   margin-left: 150px;
+}
+.p4-4 span{
+   margin: 17px 30px 0 85px ;
+}
+.p5-1{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p5-1 p{
+   margin-left: 150px;
+}
+.p5-1 span{
+   margin: 17px 30px 0 195px ;
+}
+.p5-2{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p5-2 p{
+   margin-left: 150px;
+}
+.p5-2 span{
+   margin: 17px 30px 0 185px ;
+}
+.p5-3{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p5-3 p{
+   margin-left: 150px;
+}
+.p5-3 span{
+   margin: 17px 30px 0 190px ;
+}
+.p5-4{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p5-4 p{
+   margin-left: 150px;
+}
+.p5-4 span{
+   margin: 17px 30px 0 110px ;
+}
+.p5-5{
+   color: white;
+   display: flex;
+   font-size: 20px;
+}
+.p5-5 p{
+   margin-left: 150px;
+}
+.p5-5 span{
+   margin: 17px 30px 0 335px ;
+}
+
+.cont{
+   margin: 150px 0 0 0;
+   text-align: center;
+   font-size: 50px;
+   color: white;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+
+.roi p{
+   font-weight: bold;
+   font-size: 150px;
+   background-image: linear-gradient(to right,#00FF80, #281AF7);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   text-align: center;
+}
+.roi h1{
+   color: white;
+   font-size: 40px;
+   margin: -180px 0 0 600px;
+}
+
+.wifi{
+   margin: 200px 0 0 220px;
+}
+
+.wifi p{
+   color: white;
+}
+.wifi-p1{
+   width: 220px;
+   height: 60px;
+   background-color: #1E1B1E;
+   border-radius: 15px;
+   padding: 15px;
+   font-size: 20px;
+   margin: -1050px 0 0 700px;
+}
+.wifi-p2{
+   width: 180px;
+   height: 110px;
+   background-color: #1E1B1E;
+   border-radius: 15px;
+   padding: 15px;
+   font-size: 20px;
+   margin: 220px 0 0 -90px;
+}
+.wifi-p3{
+   width: 220px;
+   height: 60px;
+   background-color: #1E1B1E;
+   border-radius: 15px;
+   padding: 15px;
+   font-size: 20px;
+   margin: 20px 0 0 700px;
+}
+.wifi-p4{
+   width: 180px;
+   height: 60px;
+   background-color: #1E1B1E;
+   border-radius: 15px;
+   padding: 15px;
+   font-size: 20px;
+   margin: 120px 0 0 60px;
+}
+.im-im p{
+   color: white;
+   font-size: 50px;
+   font-weight: bold;
+   text-align: center;
+   margin: 250px  0 0 0 ;
+   /* background-color: #1E1B1E; */
+
+}
+.im-im img{
+   margin: 150px 0 0 0;
+}
+.proof p{
+   margin: 200px 0 0 0;
+   font-weight: bold;
+   font-size: 60px;
+   background-image: linear-gradient(to right,#00FF80, #281AF7);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   text-align: center;
+}
+.proof-img2{
+   margin-top: -250px;
+}
+.proof-img3{
+   margin-top: -1000px;
+}
+.row h1{
+ text-align: center;
+ font-weight: bold;
+ color: white;
+ margin: 100px 0 0 0 ;
+}
+.row p{
+   font-weight: bold;
+   font-size: 60px;
+   background-image: linear-gradient(to right,#00FF80, #281AF7);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   text-align: center;
+   margin: -10px 0 0 0 ;
+}
+.hr-{
+   color: white;
+   margin: 100px 0 0 0 ;
+}
+
+.lin1{
+     display: flex;
+    margin: 0 0 0 500px;
+     color: white;
+}
+.lin1 p{
+    margin: 30px 0 0 0;
+    font-size: 20px;
+}
+.lin2{
+   display: flex;
+  margin: 0 0 0 400px;
+   color: white;
+   margin-top: -20px;
+}
+.lin2 h1{
+font-size: 40px;
+}
+.lin2 p{
+  margin: 45px 0 0 0;
+  font-size: 20px;
+}
+.lin3{
+   display: flex;
+  margin: 0 0 0 300px;
+   color: white;
+   margin-top: -20px;
+}
+.lin3 h1{
+font-size: 40px;
+}
+.lin3 p{
+  margin: 45px 0 0 0;
+  font-size: 20px;
+}
+.lin4{
+   display: flex;
+ 
+   color: white;
+   margin-top: -10px;
+}
+.lin4 h1{
+font-size: 40px;
+}
+.lin4 p{
+  margin: 45px 0 0 0;
+  font-size: 20px;
+}
+.lin5{
+   display: flex;
+  margin: 0 0 0 300px;
+   color: white;
+   margin-top: -20px;
+}
+.lin5 h1{
+font-size: 40px;
+}
+.lin5 p{
+  margin: 45px 0 0 0;
+  font-size: 20px;
+}
+.lin5 img{
+   margin-top: 40px;
+}
+.lin6{
+   display: flex;
+  margin: 0 0 0 400px;
+   color: white;
+   margin-top: -20px;
+}
+.lin6 h1{
+font-size: 40px;
+background-image: linear-gradient(to right,#00FF80, #281AF7);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.lin6 p{
+  margin: 45px 0 0 0;
+  font-size: 20px;
+}
+.mint{
+   position: absolute;
+   margin: -500px 0 0 950px;   
+}
+.layer{
+   margin: -90px 0 0 350px;
+}
+
+.our p{
+   color: white;
+   font-size: 50px;
+   font-weight: bold;
+   text-align: center;
+   margin: -190px  0 0 0 ;
+}
+.logos{
+   display: inline-grid;
+  grid-template-columns: auto auto auto auto auto;
+  margin: 50px 0 0 50px;
+
+}
+.logos img{
+   padding: 40px 0 0 110px;
+}
+  
+.last{
+   margin: 200px 0 0 0 ;
+   font-weight: bold;
+   font-size: 40px;
+background-image: linear-gradient(to right,#00FF80, #281AF7);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   text-align: center;
+}
+.last1{
+   margin: 100px 300px 0 300px;
+   text-align: center;
+   color: white;
+}
+.Ellipse9{
+   margin: -500px 0 0 0;
+}
+.Ellipse8{
+   position: absolute;
+   margin: -700px 0 0 630px;
+}
+.Ellipse15{
+   position: absolute;
+   margin: -600px 0 0 600px;
+}
+.Ellipse16{
+   position: absolute;
+   margin: -900px 0 0 -660px ;
+}
+.Ellipse18{
+   position: absolute;
+   margin: -500px 0 0 0;
+
+}
+.Layer-2-2{
+   margin: -300px 0 0 0;
+}
+.Ellipse4{
+   position: absolute;
+   margin: -1250px 0 0 510px;
+}
+.Ellipse5{
+   position: absolute;
+   margin: -1050px 0 0 0 ;
+}
+.Ellipse16-1{
+   position: absolute;
+   margin: -200px 0 0 -150px;
+}
+.Ellipse19{
+   position: absolute;
+   margin: -1500px 0 0 -40px;
+}
